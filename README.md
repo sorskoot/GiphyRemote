@@ -5,7 +5,6 @@ Node.js app for playing giphys remote
 * one html --> shows the giphy
 * one html --> be the remote
   * program buttons on this to request certain giphys
-
   * textbox to search
 
 

@@ -8,4 +8,3 @@ document.querySelector("#epicfail").addEventListener("click",()=>{
     socket.emit('search-giphy', { message: 'epic+fail' });
 })
 
-//socket.emit('broadcast', { message: 'hello world' });
